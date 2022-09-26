@@ -1,0 +1,16 @@
+html
+{
+    background-color: antiquewhite;
+}
+body
+{
+    margin-top: 5%;
+    text-align: center;
+}
+textarea
+{   
+    text-align: center;
+    width: 20%;
+    height: 40%;
+    border-radius: 10px;
+}
